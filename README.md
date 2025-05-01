@@ -1,0 +1,2 @@
+# KafkaConnectPlayground
+Katas for KafkaConnect
